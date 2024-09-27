@@ -23,3 +23,10 @@ C++ 程序员都知道，该语言有很多强大的特性（feature），但其
 > 如果您也想要加入他们，请联系 [Yang.Y](https://github.com/yangyubo)。
 >
 > 如果您关注的是 Google 官方英文版，请移步 [Google Style Guide](https://github.com/google/styleguide)。
+
+## Git
+
+为了让开发者提交历史更具可读性，并在自动化工具（如版本管理、发布流程等）中变得更加有用，我们选择使用  Conventional Commits 作为 Git 提交规范，用于在提交消息中添加结构化的信息，您可以通过以下途径获取：
+
++ 官方网站：[Conventional Commits](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
++ GitHub 托管地址：[conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)
