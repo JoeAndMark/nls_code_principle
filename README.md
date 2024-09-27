@@ -26,7 +26,19 @@ C++ 程序员都知道，该语言有很多强大的特性（feature），但其
 
 ## Git
 
-为了让开发者提交历史更具可读性，并在自动化工具（如版本管理、发布流程等）中变得更加有用，我们选择使用  Conventional Commits 作为 Git 提交规范，用于在提交消息中添加结构化的信息，您可以通过以下途径获取：
+为了让开发者提交历史更具可读性，并在自动化工具（如版本管理、发布流程等）中变得更加有用，我们选择使用  Conventional Commits 作为 Git 提交规范，用于在提交消息中添加结构化的信息。您可以通过以下途径获取：
 
 + 官方网站：[Conventional Commits](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
 + GitHub 托管地址：[conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)
+
+## 文档
+
+在团队开发流程中，一份优秀的开发文档的重要性不言而喻。考虑到简易性、可读性和版本控制，我们选择使用 Markdown 进行开发文档的编写。
+
+同时为了保证文档风格的统一性和排版的优雅度，我们对开发文档编写作出如下规范：
+
++ 语法上遵循 GitHub Markdown 语法，详情请访问 [GitHub 文档](https://docs.github.com/zh/get-started/writing-on-github)
++ 风格上遵循 [Google Markdown style](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md) 
+
+同时，鉴于中文排版与英文排版的差异性，开发文档也应遵循[中文文案排版指北](https://lrita.github.io/wiki/chinese-copywriting-guidelines/)。
+
